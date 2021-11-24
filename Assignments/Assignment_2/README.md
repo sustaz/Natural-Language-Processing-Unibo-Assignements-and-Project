@@ -4,4 +4,4 @@ Started to process our dataset, wrote a function to create a dataframe where eac
 
 ### TODO:
 
-* Dataset cleaning: the text of Claims and Evidences is very "dirty". Also, some evidences are not sentences e.g. "Bruce Willis"
+* Dataset cleaning: the text of Claims and Evidences is very "dirty". Also, some evidences are not sentences e.g. "Absolute Taste", and some of them are duplicated.
