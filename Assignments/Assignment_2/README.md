@@ -1,8 +1,8 @@
 # Assignment 2
 
 In order to keep things cleaner as possible, we've split everything into two notebooks:
-* [specifications.ipynb](https://github.com/valentinaboriano/Natural-Language-Processing/blob/main/Assignments/Assignment_2/Assignment_2.ipynb) the notebook provided by Galassi, Ruggeri and Torroni, containing all the specifications for the second assignment
-* [assignment_2.ipynb](https://github.com/valentinaboriano/Natural-Language-Processing/blob/main/Assignments/Assignment_2/specifications.ipynbg) the notebook containing the actual code for our solution
+* [specifications.ipynb](specifications.ipynb) the notebook provided by Galassi, Ruggeri and Torroni, containing all the specifications for the second assignment
+* [Assignment_2.ipynb](Assignment_2.ipynb) the notebook containing the actual code for our solution
 
 ### TODO:
 
