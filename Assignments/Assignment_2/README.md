@@ -7,4 +7,6 @@ In order to keep things cleaner as possible, we've split everything into two not
 ### TODO:
 
 * Dataset cleaning: the text of Claims and Evidences is very "dirty". Also, some evidences are not sentences e.g. "Absolute Taste", and some of them are duplicated (Don't know if it is strictly necessary though).
-* Sentence embedding
+* Sentence embedding: We have to implement the 4 different options proposed in [specifications.ipynb](specifications.ipynb)
+* Merging inputs
+* Multi-input classification
