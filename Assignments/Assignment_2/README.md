@@ -3,6 +3,7 @@
 In order to keep things cleaner as possible, we've split everything into two notebooks:
 * [specifications.ipynb](specifications.ipynb) the notebook provided by Galassi, Ruggeri and Torroni, containing all the specifications for the second assignment
 * [Assignment_2.ipynb](Assignment_2.ipynb) the notebook containing the actual code for our solution
+* [demos.ipynb](demos.ipynb) temporary notebook where we can play around with various stuff before implementing it into the final code and keep things cleaner in the main notebook
 
 ### TODO:
 
